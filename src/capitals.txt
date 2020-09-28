@@ -1,0 +1,16 @@
+Tokyo
+332000000
+New York
+167000000
+Sao Paulo
+17700000
+Seoul
+175000000
+Mexico City
+174000000
+Osaka
+162250000
+Mumbai
+143500000
+Jakarta
+142500000
